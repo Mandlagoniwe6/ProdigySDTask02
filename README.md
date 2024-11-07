@@ -8,6 +8,14 @@ User-friendly interface with a modern, dark theme.
 Live feedback to guide you if your guess is too high or low.
 Play again option to easily reset and start a new game.
 
+#Getting Started:
+Follow these steps to set up and play the game.
+Prerequisites
+Python 3.7 or higher
+customtkinter library
+Install dependencies: If you haven’t installed customtkinter, install it using: pip install customtkinter
+After installing the dependencies, you can run the code in this repository from the game.py file.
+
 #How to Play: 
 Enter a guess between 1 and 100 in the input field.
 Click "Submit Guess" to check if your guess is correct.
